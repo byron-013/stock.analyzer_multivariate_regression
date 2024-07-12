@@ -1,5 +1,7 @@
 # stock.analyzer_multivariate_regression
-This python program analyzes and helps interperet economic/financial data in order to indentify trends, forecast prices, etc.
+
+# About the Project - What it does.
+This project consists of a python program that analyzes and helps interperet economic/financial data in order to indentify trends, forecast prices, etc.
 
 Several economic indicators (risk free rates, unemployment rates, etc) are provided in economic_data.csv so that the conditions of the economy can be taken into account when looking at company financials.
 
@@ -16,6 +18,23 @@ It also conducts tests for heteroskedasticity and allows for the user to change 
 
 The program offers the option to remove variables and provides guidance on how to transform the data to use a variable with multicollinearity or heteroskedasticity. It will also test the normallity of the error terms to make sure a linear model is viable for the selected variables.
 
+
 In the final step, the program performs the regression on the test data set. With your choice of variables and error type (after performing transformations if needed), it will perform the regression and print the OLS results summary. If you specify a robust error type it will also print the corresponding results summary for that error type after providing the nonrobust summary.
 
+
 All test results come with explanations. Whenever an OLS summary is printed or a diagnostic test is ran, a paragraph is also generated containing the real world/statistical implications of the values are. 
+
+
+
+# Data Science Skills Used in this Project
+
+
+
+
+# About the Author
+
+Byron Delaney Jr - Berkeley Applied Mathematics 
+
+Contact Information: byron13@berkeley.edu
+
+LinkedIn: www.linkedin.com/in/byron13
