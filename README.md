@@ -22,13 +22,13 @@ The program offers the option to remove variables and provides guidance on how t
 In the final step, the program performs the regression on the test data set. With your choice of variables and error type (after performing transformations if needed), it will perform the regression and print the OLS results summary. If you specify a robust error type it will also print the corresponding results summary for that error type after providing the nonrobust summary.
 
 
-All test results come with explanations. Whenever an OLS summary is printed or a diagnostic test is ran, a paragraph is also generated containing the real world/statistical implications of the values are. 
+All test results come with explanations. Whenever an OLS summary is printed or a diagnostic test is ran, a paragraph is also generated containing the real world/statistical implications of the values are.
 
 
 
 # Data Science Skills Used in this Project
 
-
+Data gathering, preprocessing, and transformation.
 
 
 # About the Author
