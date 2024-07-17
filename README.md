@@ -1,6 +1,6 @@
 # stock.analyzer_multivariate_regression
 
-# About the Project - What it does.
+# About the Project 
 This project consists of a python program that analyzes and helps interperet economic/financial data in order to indentify trends, forecast prices, etc.
 
 Several economic indicators (risk free rates, unemployment rates, etc) are provided in economic_data.csv so that the conditions of the economy can be taken into account when looking at company financials.
